@@ -1,8 +1,8 @@
 ## **Compilers and Interpreters**
 
-**Note**: These are the assignments that I completed in this course. That means the skeleton of the project was given to us by the instructor and I worked on completing the required tasks.
+**Note**: These are the assignments that I completed in this course. That means the skeleton of the project was given to us by the instructor and I worked on completing the assignments.
 In this course, I built a compiler for a custom language called **MiniC**, which is a subset of the C language. The compiler project was split into 6 assignments, each of which focusing on one of the main stages of the compiling process. The description of each assignment’s tasks can be viewed in a pdf in this repo.
-As the skeleton code of this project belongs to the instructor, I have omitted the src code in this public repo. However, I have a private repo that contains my complete implementations for this project. Please contact me to view more. 
+As this is a public repo, I have only pushed a partial view of the src code. However, I have a private repo that contains my complete implementations for this project. Please contact me to view more. 
 
 <p align="center">
     <kbd><img src="/A1/compiler-stages.png" style="width:600px;height:300px;"></kbd>
